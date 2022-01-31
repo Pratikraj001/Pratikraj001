@@ -16,7 +16,7 @@
 - 📖 I am currently Improving my Problem Solving. <br> 
 - 👀 I’m interested in andorid development and web development<br>
 - 💬 Talk to me about DSA & startups <br>                                          
-- ⚡ Code Game Repeat ⚡<br>
+- ⚡ Code Game Sleep Repeat ⚡<br>
 </h4>  
 <h4>My skills and tools-</h4>
                                                                                                 
@@ -39,7 +39,6 @@
   </a>&nbsp;&nbsp;&nbsp;   
   
 </p>                                                                                                                
-                                                                                                               
                                                                                                                
 <h4> Connect with me- </h4>                               
 <h3 align = "center">       
