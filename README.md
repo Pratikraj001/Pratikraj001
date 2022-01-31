@@ -13,7 +13,7 @@
 - 📖 I am currently Improving my Problem Solving. <br> 
 - 👀 I’m interested in andorid development and web development<br>
 - 💬 Talk to me about DSA & startups <br>
-- 📫 How to reach me This is my email:- rpratik617@gmail.com and linkedin profile link:- https://www.linkedin.com/in/pratik-raj-65b041201 <br>                                                  
+- 📫 How to reach me This is my email:- rpratik617@gmail.com and linkedin profile link:-                https://www.linkedin.com/in/pratik-raj-65b041201 <br>                                              
 - ⚡ Code Game Repeat ⚡<br>
 </h4>                              
 <h2>See my portfolio <img src="https://raw.githubusercontent.com/ItsAnunesS/ItsAnunesS/master/src/img/parrots/flags/indiaparrot.gif" width="30" height="40"/></h2>
