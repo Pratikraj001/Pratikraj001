@@ -16,7 +16,16 @@
 - 👀 I’m interested in andorid development and web development<br>
 - 💬 Talk to me about DSA & startups <br>                                          
 - ⚡ Code Game Repeat ⚡<br>
-</h4>          
+</h4>  
+<h4>My skills and tools-</h4>
+                                                                                                
+ <p align = "center">
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></code>  
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/opencv/opencv-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
+  <br />
+</p>
 <h4>Programming Handles-</h4>
  
 <p align="center">
