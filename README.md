@@ -6,23 +6,37 @@
     <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
  </abc> 
 </h2>
+
 <h4 align = "left>
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px">About Me: <br>
+                                                                                                               
 - 🏦 I'm a Competitive programmer.:comuter:<br>
 - 💻 I use daily .java <br>
 - 📖 I am currently Improving my Problem Solving. <br> 
 - 👀 I’m interested in andorid development and web development<br>
-- 💬 Talk to me about DSA & startups <br>
-- 📫 How to reach me This is my email:- rpratik617@gmail.com and linkedin profile link:-                https://www.linkedin.com/in/pratik-raj-65b041201 <br>                                              
+- 💬 Talk to me about DSA & startups <br>                                          
 - ⚡ Code Game Repeat ⚡<br>
-</h4>                              
+</h4>  
+<h4> Connect with me- </h4>                               
+<h3 align = "center">       
+                    
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pratik-raj-65b041201/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:pratikraj001@protonmail.com)
+                    
+ &nbsp;
+                    
+ </h3>                                                                                                                
 <h2>See my portfolio <img src="https://raw.githubusercontent.com/ItsAnunesS/ItsAnunesS/master/src/img/parrots/flags/indiaparrot.gif" width="30" height="40"/></h2>
                                                                        
 <h3 align ="center"> 
  <img src="https://github-readme-stats.vercel.app/api?username=Pratikraj001&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
  <img src="https://github-readme-streak-stats.herokuapp.com?user=Pratikraj001&theme=react&date_format=M%20j%5B%2C%20Y%5D&fire=DDA514)](https://git.io/streak-stats">
+ 
+ 
 </h3>
 <h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
+
+
 <!---
 Pratikraj001/Pratikraj001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
