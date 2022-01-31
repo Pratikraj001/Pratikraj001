@@ -16,7 +16,21 @@
 - 👀 I’m interested in andorid development and web development<br>
 - 💬 Talk to me about DSA & startups <br>                                          
 - ⚡ Code Game Repeat ⚡<br>
-</h4>  
+</h4>          
+<h4>Programming Handles-</h4>
+ 
+<p align="center">
+  <a href="https://www.codechef.com/users/pratikraj001">
+    <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/codechef.svg" alt="codechef" style="vertical-align:top; margin:4px">
+  </a>&nbsp;&nbsp;&nbsp;
+  
+  <a href="https://leetcode.com/pratikraj001/">
+    <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/leetcode.svg" alt="leetcode" style="vertical-align:top; margin:4px">
+  </a>&nbsp;&nbsp;&nbsp;   
+  
+</p>                                                                                                                
+                                                                                                               
+                                                                                                               
 <h4> Connect with me- </h4>                               
 <h3 align = "center">       
                     
