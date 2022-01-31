@@ -1,6 +1,7 @@
 <h2 align="center">
  <abc>
   <br>Hi there! I'm Pratik Raj, <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
+  
   <br><em>A Competitive programmer </em><br>
   <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px">
   <br>
@@ -8,9 +9,10 @@
  </abc> 
 </h2>
 
-<h4 align = "left>
-### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px">About Me: <br>
-                                                                                                               
+<h4 align = "left">
+ <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px"> About Me: <br>
+
+                                                                                                            
 - 🏦 I'm a Competitive programmer.:comuter:<br>
 - 💻 I use daily .java <br>
 - 📖 I am currently Improving my Problem Solving. <br> 
@@ -33,7 +35,9 @@
   <a href="https://www.codechef.com/users/pratikraj001">
     <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/codechef.svg" alt="codechef" style="vertical-align:top; margin:4px">
   </a>&nbsp;&nbsp;&nbsp;
-  
+  <a href="">
+   <img src="https://i.ibb.co/BGBPsSJ/logo.png" alt ="codeforces" style="vertical-align:top; margin:4px; width:10px;height:5px">
+ </a>&nbsp;&nbsp;&nbsp;
   <a href="https://leetcode.com/pratikraj001/">
     <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/leetcode.svg" alt="leetcode" style="vertical-align:top; margin:4px">
   </a>&nbsp;&nbsp;&nbsp;   
