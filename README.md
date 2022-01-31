@@ -13,7 +13,7 @@
 - 📖 I am currently Improving my Problem Solving. <br> 
 - 👀 I’m interested in andorid development and web development<br>
 - 💬 Talk to me about DSA & startups <br>
-- 📫 How to reach me This is my email:- rpratik617@gmail.com and linkedin profile link:- https://www.linkedin.com/in/pratik-raj-65b041201                                                  
+- 📫 How to reach me This is my email:- rpratik617@gmail.com and linkedin profile link:- https://www.linkedin.com/in/pratik-raj-65b041201 <br>                                                  
 - ⚡ Code Game Repeat ⚡<br>
 </h4>                              
 
