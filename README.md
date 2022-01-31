@@ -16,7 +16,7 @@
 - 📫 How to reach me This is my email:- rpratik617@gmail.com and linkedin profile link:- https://www.linkedin.com/in/pratik-raj-65b041201 <br>                                                  
 - ⚡ Code Game Repeat ⚡<br>
 </h4>                              
-
+<h2>See my portfolio <img src="https://raw.githubusercontent.com/ItsAnunesS/ItsAnunesS/master/src/img/parrots/flags/indiaparrot.gif" width="30" height="40"/></h2>
                                                                        
 <h3 align ="center"> 
  <img src="https://github-readme-stats.vercel.app/api?username=Pratikraj001&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
