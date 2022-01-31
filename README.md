@@ -18,8 +18,9 @@
 </h4>                              
 
                                                                        
-<h3 align ="center">                                                                                                    
-<img src="https://github-readme-stats.vercel.app/api?username=Pratikraj001&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+<h3 align ="center"> 
+ <img src="https://github-readme-stats.vercel.app/api?username=Pratikraj001&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+ <img src="https://github-readme-streak-stats.herokuapp.com?user=Pratikraj001&theme=react&date_format=M%20j%5B%2C%20Y%5D&fire=DDA514)](https://git.io/streak-stats">
 </h3>
 <h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
 <!---
