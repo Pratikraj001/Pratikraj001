@@ -13,8 +13,8 @@
  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px"> About Me: <br>
 
                                                                                                             
-- 🏦 I'm a Competitive programmer.:comuter:<br>
-- 💻 I use daily .java <br>
+- 🏦 I'm a Competitive programmer.<br>
+- 💻 I use daily .java, .html <br>
 - 📖 I am currently Improving my Problem Solving. <br> 
 - 👀 I’m interested in andorid development and web development<br>
 - 💬 Talk to me about DSA & startups <br>                                          
