@@ -14,7 +14,7 @@
 
                                                                                                             
 - 🏦 I'm a Competitive programmer.<br>
-- 💻 I use daily .java, .html <br>
+- 💻 I use daily .cpp, .java, .html <br>
 - 📖 I am currently Improving my Problem Solving. <br> 
 - 👀 I’m interested in andorid development and web development<br>
 - 💬 Talk to me about DSA & startups <br>                                          
