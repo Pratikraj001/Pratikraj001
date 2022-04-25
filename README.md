@@ -56,7 +56,8 @@
 <h2>See my portfolio <img src="https://raw.githubusercontent.com/ItsAnunesS/ItsAnunesS/master/src/img/parrots/flags/indiaparrot.gif" width="30" height="40"/></h2>
                                                                        
 <h3 align ="center"> 
-
+ <img src="https://github-readme-stats.vercel.app/api?username=Pratikraj001&&show_icons=true&title_color=41B3A3&icon_color=E27D60f&text_color=FC4445&bg_color=000000">
+ <img src="https://github-readme-streak-stats.herokuapp.com?user=Pratikraj001&theme=react&date_format=M%20j%5B%2C%20Y%5D&fire=DDA514)](https://git.io/streak-stats">
  
  
 </h3>
