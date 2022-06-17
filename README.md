@@ -3,14 +3,13 @@
   <br>Hi there! I'm Pratik Raj, <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
   
   <br><em>a full stack developer ,enthusiast and competitive programmer </em><br>
-  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px">
+  
   <br><br>
   <img src="https://github.com/raghavk16/raghavk16/blob/master/coderman.gif" alt="Coder" width="400" height="250" /> 
  </abc> 
 </h2>
 
-<h4 align = "left">
- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px"> About Me: <br>
+<h4 align = "left">About Me: <br>
 
                                                                                                             
 - 🏦 I'm a Competitive programmer.<br>
@@ -68,3 +67,6 @@
 Pratikraj001/Pratikraj001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+ <!-- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px"> --- >
+<!-- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="4px"> --->
