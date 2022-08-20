@@ -31,7 +31,7 @@
 <h4>Programming Handles-</h4>
  
 <p align="center">
-  <a href="#">
+  <a href="https://www.codechef.com/users/pratikraj001">
     <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/codechef.svg" alt="codechef" style="vertical-align:top; margin:4px">
   </a>&nbsp;&nbsp;&nbsp;
   <a href="https://codeforces.com/profile/pratikraj001">
