@@ -9,6 +9,8 @@
  </abc> 
 </h2>
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=sPratikraj001&label=Profile%20views&color=1c8b0e&style=flat"  /> </p>
+
 <h4 align = "left">About Me: <br>
 
                                                                                                             
