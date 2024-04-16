@@ -70,11 +70,11 @@
  
 </h3>
 <h1 align='center'>⚡️<i>Stay Cool! 😎 </i>⚡️</h1>
-
+<!--
 <br>
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=Pratikraj001&label=Profile%20views&color=0e75b6&style=flat" alt="Pratikraj001" /> </p>
 
-
+-->
 
 <!---
 Pratikraj001/Pratikraj001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
