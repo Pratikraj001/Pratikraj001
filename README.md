@@ -3,7 +3,7 @@
   <br>Hi there! I'm Pratik Raj, <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
   
   <br><em>a full stack developer ,enthusiast and competitive programmer </em><br>
-  
+
   <br><br>
   <img src="https://github.com/raghavk16/raghavk16/blob/master/coderman.gif" alt="Coder" width="400" height="250" /> 
  </abc> 
@@ -70,6 +70,10 @@
  
 </h3>
 <h1 align='center'>⚡️<i>Stay Cool! 😎 </i>⚡️</h1>
+
+<br>
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=Pratikraj001&label=Profile%20views&color=0e75b6&style=flat" alt="Pratikraj001" /> </p>
+
 
 
 <!---
